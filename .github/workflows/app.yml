@@ -1,7 +1,7 @@
 name: Har Pito
 on: workflow_dispatch
 jobs:
-  build:
+  build: 
     runs-on: windows-latest
     timeout-minutes: 9999
     steps:
